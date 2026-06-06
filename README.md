@@ -19,7 +19,7 @@
 
 ## 👩‍🔬 About
 
-I am a PhD researcher at Heidelberg University, working in experimental and translational head and neck oncology. My research background combines oncology, molecular biology, bioinformatics, and medical image analysis.
+I am a PhD Candidate at Heidelberg University, working in experimental and translational head and neck oncology. My research background combines oncology, molecular biology, bioinformatics, and medical image analysis.
 
 My current interests focus on applying deep learning and computational methods to biomedical data, including histopathology image classification, medical image segmentation, single-cell RNA sequencing, bulk RNA-seq analysis, and multi-omics integration.
 
