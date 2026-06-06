@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  PhD Researcher @ Heidelberg University Hospital<br>
+  PhD Candidate @ Heidelberg University Hospital<br>
   Medical oncology · Bioinformatics · Medical image analysis · Computational pathology
 </p>
 
