@@ -1,12 +1,37 @@
 ## Hi there 👋
 
-# Qiaoli Li
+# Hi, I'm Qiaoli Li 👋
+
+<p align="center">
+  PhD Researcher @ Heidelberg University Hospital<br>
+  Medical oncology · Bioinformatics · Medical image analysis · Computational pathology
+</p>
+
+<p align="center">
+  <a href="mailto:qi229@stud.uni-heidelberg.de">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Based%20in-Germany-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaboration-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Medical%20AI-blue?style=flat-square" />
+</p>
+
+---
+
+## 👩‍🔬 About
 
 I am a PhD researcher at Heidelberg University, working in experimental and translational head and neck oncology. My research background combines oncology, molecular biology, bioinformatics, and medical image analysis.
 
 My current interests focus on applying deep learning and computational methods to biomedical data, including histopathology image classification, medical image segmentation, single-cell RNA sequencing, bulk RNA-seq analysis, and multi-omics integration.
 
-## Research Interests
+## 🚀 Research Interests
+
+![Medical Image Analysis](https://img.shields.io/badge/Medical%20Image%20Analysis-blue?style=flat-square)
+![Computational Pathology](https://img.shields.io/badge/Computational%20Pathology-green?style=flat-square)
+![Histopathology](https://img.shields.io/badge/Histopathology%20Classification-purple?style=flat-square)
+![3D Segmentation](https://img.shields.io/badge/3D%20Medical%20Segmentation-orange?style=flat-square)
+![Single Cell RNA-seq](https://img.shields.io/badge/scRNA--seq-teal?style=flat-square)
+![Multi-omics](https://img.shields.io/badge/Multi--omics-red?style=flat-square)
 
 - Medical image analysis
 - Computational pathology
@@ -18,7 +43,7 @@ My current interests focus on applying deep learning and computational methods t
 - Multi-omics integration
 - Translational oncology
 
-## Education
+## 🎓 Education
 
 **Heidelberg University**  
 PhD, Experimental and Translational Head and Neck Oncology  
@@ -30,7 +55,7 @@ Relevant coursework:
 - Data visualization
 - Medical image analysis
 
-## Research Experience
+## 🧪 Research Experience
 
 ### Heidelberg University Hospital
 
@@ -43,12 +68,16 @@ Apr. 2019 - Present
 - Conducted machine learning-based quantitative analysis of HDV-infected cells in IHC-stained samples.
 - Participated in antibody development workflows, including antibody production, preparation, and ELISA testing.
 
-
-## Featured Projects
+## 📌 Featured Projects
 
 ### Histopathology Image Classification
 
 A deep learning project for colorectal cancer tissue classification using H&E-stained histopathology image patches.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![EfficientNet](https://img.shields.io/badge/EfficientNet--B0-blue?style=flat-square)
+![Histopathology](https://img.shields.io/badge/Histopathology-purple?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Test%20Accuracy-96.76%25-brightgreen?style=flat-square)
 
 - Model: EfficientNet-B0 with ImageNet-pretrained weights
 - Dataset: NCT-CRC-HE-100K and CRC-VAL-HE-7K
@@ -57,19 +86,71 @@ A deep learning project for colorectal cancer tissue classification using H&E-st
 
 [View repository](https://github.com/Qiaoli-Li-Res/histopathology-classification)
 
+### Freezing Depth and Stain Augmentation for Robust Transfer Learning under Histopathology Domain Shift
+
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-blue?style=flat-square)
+![Stain Augmentation](https://img.shields.io/badge/Stain%20Augmentation-pink?style=flat-square)
+![Under Review](https://img.shields.io/badge/Status-Under%20Review-yellow?style=flat-square)
+
+A controlled factorial study examining how network freezing depth and stain augmentation interact to affect cross-domain generalization of EfficientNet-B0 on colorectal histopathology tissue classification.
+
 ### HNSCC Multi-Omics Subgrouping
+
+![HNSCC](https://img.shields.io/badge/HNSCC-red?style=flat-square)
+![RNA-seq](https://img.shields.io/badge/RNA--seq-green?style=flat-square)
+![Multi-omics](https://img.shields.io/badge/Multi--omics-purple?style=flat-square)
 
 Bioinformatic analysis of head and neck squamous cell carcinoma patient subgroups, focusing on differences in mutation patterns, epigenomic profiles, and transcriptomic features.
 
 ### Medical Image Analysis for IHC Quantification
 
+![IHC](https://img.shields.io/badge/IHC%20Analysis-brown?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-orange?style=flat-square)
+
 Machine learning-based quantitative analysis of IHC-stained biomedical samples, with a focus on reproducible image processing and cell-level quantification.
 
-## Technical Skills
+## 🧬 Laboratory Skills
 
-```text
-Python        R             PyTorch
-scRNA-seq     bulk RNA-seq   Git/GitHub
-FastAPI       Docker        Medical image processing
-IHC analysis,  Data analysis,  Data visualization
+![Cell Culture](https://img.shields.io/badge/Cell%20Culture-7E57C2?style=flat-square)
+![PCR](https://img.shields.io/badge/PCR-009688?style=flat-square)
+![Western Blot](https://img.shields.io/badge/Western%20Blot-795548?style=flat-square)
+![ELISA](https://img.shields.io/badge/ELISA-3F51B5?style=flat-square)
+![Flow Cytometry](https://img.shields.io/badge/Flow%20Cytometry-E91E63?style=flat-square)
+![IHC](https://img.shields.io/badge/IHC-607D8B?style=flat-square)
+![ISH](https://img.shields.io/badge/ISH-9C27B0?style=flat-square)
+![Animal Models](https://img.shields.io/badge/Animal%20Models-4CAF50?style=flat-square)
 
+## 🛠️ Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scRNA-seq](https://img.shields.io/badge/scRNA--seq-teal?style=flat-square)
+![bulk RNA-seq](https://img.shields.io/badge/bulk%20RNA--seq-green?style=flat-square)
+![Medical Image Processing](https://img.shields.io/badge/Medical%20Image%20Processing-blue?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?style=flat-square)
+
+
+
+## 📚 Publications
+
+- Plath M., Gass J., Hlevnjak M., Li Q. et al. Unraveling most abundant mutational signatures in head and neck cancer. *International Journal of Cancer*. 2021;148(1):115-127.
+- Li C., Li Q., Cai Y., et al. Overexpression of angiopoietin 2 promotes oral squamous cell carcinoma formation via EMT-induced angiogenesis. *Cancer Gene Therapy*. 2016;23(9):295-302.
+
+## 🌍 Languages
+
+![Chinese](https://img.shields.io/badge/Chinese-Native-red?style=flat-square)
+![English](https://img.shields.io/badge/English-Professional-blue?style=flat-square)
+![German](https://img.shields.io/badge/German-Professional-green?style=flat-square)
+
+## 📫 Contact
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Qiaoli%20Li-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Qiaoli-Li)
+[![GitHub](https://img.shields.io/badge/GitHub-Qiaoli--Li--Res-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Qiaoli-Li-Res)
+
+
+[![Email](https://img.shields.io/badge/Email-qi229%40stud.uni--heidelberg.de-red?style=flat-square&logo=gmail&logoColor=white)](mailto:qiaoli.li.medresearch@gmail.com)
