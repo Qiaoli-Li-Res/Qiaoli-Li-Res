@@ -152,4 +152,4 @@ Machine learning-based quantitative analysis of IHC-stained biomedical samples, 
 [![GitHub](https://img.shields.io/badge/GitHub-Qiaoli--Li--Res-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Qiaoli-Li-Res)
 
 
-[![Email](https://img.shields.io/badge/Email-qi229%40stud.uni--heidelberg.de-red?style=flat-square&logo=gmail&logoColor=white)](mailto:qiaoli.li.medresearch@gmail.com)
+[![Email](https://img.shields.io/badge/Email-qiaoli.li.medresearch%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:qiaoli.li.medresearch@gmail.com)
