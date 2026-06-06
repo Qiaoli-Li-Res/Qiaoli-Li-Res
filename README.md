@@ -25,13 +25,6 @@ My current interests focus on applying deep learning and computational methods t
 
 ## 🚀 Research Interests
 
-![Medical Image Analysis](https://img.shields.io/badge/Medical%20Image%20Analysis-blue?style=flat-square)
-![Computational Pathology](https://img.shields.io/badge/Computational%20Pathology-green?style=flat-square)
-![Histopathology](https://img.shields.io/badge/Histopathology%20Classification-purple?style=flat-square)
-![3D Segmentation](https://img.shields.io/badge/3D%20Medical%20Segmentation-orange?style=flat-square)
-![Single Cell RNA-seq](https://img.shields.io/badge/scRNA--seq-teal?style=flat-square)
-![Multi-omics](https://img.shields.io/badge/Multi--omics-red?style=flat-square)
-
 - Medical image analysis
 - Computational pathology
 - Histopathology image classification
@@ -95,17 +88,9 @@ A controlled factorial study examining how network freezing depth and stain augm
 
 ### HNSCC Multi-Omics Subgrouping
 
-![HNSCC](https://img.shields.io/badge/HNSCC-red?style=flat-square)
-![RNA-seq](https://img.shields.io/badge/RNA--seq-green?style=flat-square)
-![Multi-omics](https://img.shields.io/badge/Multi--omics-purple?style=flat-square)
-
 Bioinformatic analysis of head and neck squamous cell carcinoma patient subgroups, focusing on differences in mutation patterns, epigenomic profiles, and transcriptomic features.
 
 ### Medical Image Analysis for IHC Quantification
-
-![IHC](https://img.shields.io/badge/IHC%20Analysis-brown?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square)
-![Image Processing](https://img.shields.io/badge/Image%20Processing-orange?style=flat-square)
 
 Machine learning-based quantitative analysis of IHC-stained biomedical samples, with a focus on reproducible image processing and cell-level quantification.
 
