@@ -140,16 +140,15 @@ Machine learning-based quantitative analysis of IHC-stained biomedical samples, 
 - Plath M., Gass J., Hlevnjak M., Li Q. et al. Unraveling most abundant mutational signatures in head and neck cancer. *International Journal of Cancer*. 2021;148(1):115-127.
 - Li C., Li Q., Cai Y., et al. Overexpression of angiopoietin 2 promotes oral squamous cell carcinoma formation via EMT-induced angiogenesis. *Cancer Gene Therapy*. 2016;23(9):295-302.
 
+
+
 ## 🌍 Languages
 
-![Chinese](https://img.shields.io/badge/Chinese-Native-red?style=flat-square)
-![English](https://img.shields.io/badge/English-Professional-blue?style=flat-square)
-![German](https://img.shields.io/badge/German-Professional-green?style=flat-square)
+🇨🇳 Chinese (Native) · 🇬🇧 English · 🇩🇪 German
 
 ## 📫 Contact
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Qiaoli%20Li-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Qiaoli-Li)
-[![GitHub](https://img.shields.io/badge/GitHub-Qiaoli--Li--Res-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Qiaoli-Li-Res)
 
+ResearchGate: [Qiaoli Li](https://www.researchgate.net/profile/Qiaoli-Li) · GitHub: [Qiaoli-Li-Res](https://github.com/Qiaoli-Li-Res)
 
-[![Email](https://img.shields.io/badge/Email-qiaoli.li.medresearch%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:qiaoli.li.medresearch@gmail.com)
+📧 qiaoli.li.medresearch@gmail.com
