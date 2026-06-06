@@ -2,17 +2,13 @@
 # Hi, I'm Qiaoli Li 👋
 
 <p align="center">
-  PhD Candidate @ Heidelberg University <br>
-  Medical oncology · Bioinformatics · Medical image analysis · Computational pathology
-</p>
-
-<p align="center">
   <a href="mailto:qi229@stud.uni-heidelberg.de">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Based%20in-Germany-555?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Research%20Collaboration-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Medical%20AI-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Bioinformatics-purple?style=flat-square" />
 </p>
 
 ---
