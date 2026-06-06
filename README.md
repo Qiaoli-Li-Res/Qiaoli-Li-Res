@@ -17,7 +17,7 @@
 
 ---
 
-## 👩‍🔬 About
+## 🧑🏻‍🔬🥼 About
 
 I am a PhD Candidate at Heidelberg University, working in experimental and translational head and neck oncology. My research background combines oncology, molecular biology, bioinformatics, and medical image analysis.
 
@@ -109,7 +109,7 @@ Bioinformatic analysis of head and neck squamous cell carcinoma patient subgroup
 
 Machine learning-based quantitative analysis of IHC-stained biomedical samples, with a focus on reproducible image processing and cell-level quantification.
 
-## 🧬 Laboratory Skills
+## 🧬🔬 Laboratory Skills
 
 ![Cell Culture](https://img.shields.io/badge/Cell%20Culture-7E57C2?style=flat-square)
 ![PCR](https://img.shields.io/badge/PCR-009688?style=flat-square)
