@@ -44,7 +44,7 @@ My current interests focus on applying deep learning and computational methods t
 
 **Heidelberg University**  
 PhD, Experimental and Translational Head and Neck Oncology  
-Apr. 2019 - Present
+Apr. 2019 - 2026
 
 Relevant coursework:
 - Genome sequencing analysis
@@ -57,7 +57,7 @@ Relevant coursework:
 ### Heidelberg University Hospital
 
 **PhD Researcher, Head and Neck Oncology**  
-Apr. 2019 - Present
+Apr. 2019 - 2026
 
 - Investigating subgroup-specific differences in the mutational landscape, epigenome, and transcriptome of head and neck squamous cell carcinoma.
 - Working with scRNA-seq and bulk RNA-seq data using R and Python.
